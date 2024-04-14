@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/commentFragment2">
+    <fragment
+        android:id="@+id/commentFragment2"
+        android:name="com.example.chillapp.CommentFragment"
+        android:label="fragment_comment"
+        tools:layout="@layout/fragment_comment" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.chillapp.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.chillapp.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="com.example.chillapp.MainActivity"
+        android:label="activity_main"
+        tools:layout="@layout/activity_main" />
+</navigation>

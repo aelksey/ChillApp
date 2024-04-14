@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+        android:icon="@drawable/round_home_24"
+        android:title="@string/homepage"/>
+    <item android:id="@+id/comments"
+        android:icon="@drawable/baseline_mode_comment_24"
+        android:title="@string/commentpage"/>
+    <item android:id="@+id/profile"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="@string/profilepage"/>
+</menu>
