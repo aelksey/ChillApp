@@ -1,9 +1,10 @@
 <h1>ChillApp</h1>
+
 **ChillApp** is a modern android mobile phone application writen in **Kotlin** programming language.
 
 Application is created as a fellow students project in order to gain better understanding and practical knowledge of android development and programming in general.
-
 NSTU chilling and recreation zones agrregator app made in android studio using modern kotlin and material design
+
 <h2>Development Roadmap</h2>
 * UI/UX design ✅ - Completed
 * Login Screen✅ - Completed
