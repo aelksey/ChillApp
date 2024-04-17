@@ -24,7 +24,8 @@ NSTU chilling and recreation zones agrregator app made in android studio using m
 
 <h2>Extras</h2>
 
-App screenshots: 
+App screenshots:
+
 ![Login Screen](https://github.com/aelksey/ChillApp/blob/master/screenshots/login.jpg)
 
 ![Blocks Screen](https://github.com/aelksey/ChillApp/blob/master/screenshots/blocks.jpg)
