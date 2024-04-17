@@ -21,3 +21,7 @@ NSTU chilling and recreation zones agrregator app made in android studio using m
 - Connect functioning database⚠️
 - Integrate database into the app⚠️
 - Write code for making querries to the app⚠️
+
+<h2>Extras</h2>
+
+App screenshots: 
